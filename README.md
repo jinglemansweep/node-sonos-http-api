@@ -11,4 +11,5 @@ Original Documentation: http://jishi.github.io/node-sonos-http-api/
 
 ## Volumes
 
+* `/opt/app/cache`
 * `/opt/app/presets`

@@ -23,7 +23,7 @@ WORKDIR /opt/app/
 RUN npm install --production
 
 EXPOSE 3500 ${HTTP_PORT} ${HTTPS_PORT}
-VOLUME ["/opt/app/presets"]
+VOLUME ["/opt/app/cache", "/opt/app/presets"]
 
 ENTRYPOINT ["/entrypoint.sh"]
 
