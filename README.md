@@ -1,7 +1,7 @@
 # Dockerised Node Sonos HTTP API
 
-Docker Hub: https://hub.docker.com/r/jinglemansweep/node-sonos-http-api/
-Original Documentation: http://jishi.github.io/node-sonos-http-api/
+* Docker Hub: https://hub.docker.com/r/jinglemansweep/node-sonos-http-api/
+* Original Documentation: http://jishi.github.io/node-sonos-http-api/
 
 ## Usage
 
